@@ -1,0 +1,27 @@
+_repo: Vanguards-of-the-Plains--A-Romance-of-the-Old-Santa-F--Trail_13345
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McCarter, Margaret Hill
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '613'
+    url: http://www.gutenberg.org/2009/agents/613
+description: ''
+gutenberg_issued: '2004-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Santa Fe National Historic Trail -- Fiction'
+- !lcsh 'West (U.S.) -- History -- Fiction'
+- !lcc 'PS'
+title: 'Vanguards of the Plains: A Romance of the Old Santa Fé Trail'
+url: http://www.gutenberg.org/ebooks/13345
